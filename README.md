@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python, CSS, Webscraping, Networking**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DARKSOULx69?tab=repositories]
+- 👨‍💻 All of my projects are available at [My GitHub profile/Repositories](https://github.com/DARKSOULx69?tab=repositories)
 
 - 📝 I regularly write articles about Paranormal things, Science, Drugs & thoughts
 
