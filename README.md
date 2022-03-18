@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darksoulx69" alt="darksoulx69" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@xchamodsavinda" target="blank"><img src="https://img.shields.io/twitter/follow/@xchamodsavinda?logo=twitter&style=for-the-badge" alt="@xchamodsavinda" /></a> </p>
+<p align="left"> <a href="https://twitter.com/xchamodsavinda" target="blank"><img src="https://img.shields.io/twitter/follow/@xchamodsavinda?logo=twitter&style=for-the-badge" alt="@xchamodsavinda" /></a> </p>
 
 - 🌱 I’m currently learning **Python, CSS, Webscraping, Networking**
 
