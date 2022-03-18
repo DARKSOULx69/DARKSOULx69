@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **Python, CSS, Webscraping, Networking**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DARKSOULx69?tab=repositories](https://github.com/DARKSOULx69?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/DARKSOULx69?tab=repositories]
 
-- 📝 I regularly write articles about [Paranormal things, Science, Drugs & thoughts](Paranormal things, Science, Drugs & thoughts)
+- 📝 I regularly write articles about Paranormal things, Science, Drugs & thoughts
 
 - 💬 Ask me about **Python & Photoshop**
 
 - 📫 How to reach me **contactxchamodsavinda@gmail.com**
 
-- 📷 Mobile photographer [https://instagram.com/_dark2soul_](https://instagram.com/_dark2soul_)
+- 📷 Mobile photographer [Check out my photogrphy page](https://instagram.com/_dark2soul_)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
