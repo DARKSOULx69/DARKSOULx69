@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [My GitHub profile/Repositories](https://github.com/DARKSOULx69?tab=repositories)
 
-- 📝 I regularly write articles about Paranormal things, Science, Drugs & thoughts
+- 📝 I regularly write articles about **Paranormal things, Science, Drugs & thoughts**
 
 - 💬 Ask me about **Python & Photoshop**
 
 - 📫 How to reach me **contactxchamodsavinda@gmail.com**
 
-- 📷 Mobile photographer [Check out my photogrphy page](https://instagram.com/_dark2soul_)
+- 📷 Mobile photographer [Check out my photogrphy page on Instagram](https://instagram.com/_dark2soul_)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
