@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chamod Savinda</h1>
-<h3 align="center">A beginner software developer from SriLanka</h3>
+<h1 align="center">Hi 👋, I'm Chamod Gamhewa</h1>
+<h3 align="center">Python | Networking | DevNet | Web Developing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darksoulx69&label=Profile%20views&color=0e75b6&style=flat" alt="darksoulx69" /> </p>
 
