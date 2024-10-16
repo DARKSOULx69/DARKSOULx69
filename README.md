@@ -1,22 +1,89 @@
-<h1 align="center">Hi 👋, I'm Chamod Gamhewa</h1>
-<h3 align="center">Python | Networking | DevNet | Web Developing</h3>
+<h1 align= center><b>Chamod Gamhewa</b></h1>
+<p align= center><b>Each Dawn Sparks My Quest for Net Technologies, My Daily Pursuit to Craft a Flawless World</b></p>
+<h3 align= center><b>Networking | DevNet | Python | Web Developing</b></h3>
+<p align= center>Associate Technical Support Executive</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darksoulx69&label=Profile%20views&color=0e75b6&style=flat" alt="darksoulx69" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=DARKSOULx69&label=Profile%20views&color=0e75b6&style=flat" alt="DARKSOULx69" /> </p>  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darksoulx69" alt="darksoulx69" /></a> </p>
+><b>Work Interests</b>  
+>- DevNet/ DevOPs  
+>- Network Automation
+>- Python Application Developing
+>- Wireless Networking
+>- Cloud Computing
+>- Network Infrastructure
+>- Software Developing  
+>- Web Developing
 
-- 🌱 I’m currently learning **Python, CSS, Webscraping, Networking**
+><b>Know about</b>
+>- Cisco Meraki API
+>- Cisco Meraki Dashboard
+>- Networking Concepts  
+(Protocols, Subnetting, LAN, TCP, UDP, DHCP, DNS)
+>- Switching and Routing Protocols  
+(RIP, OSPF, STP, VLAN, Link Aggregation, IEEE 802.1Q)
+>- Windows Server  
+(DHCP, Active Directory, DNS)
+>- Python Based Software Developing  
+(Netmiko, Paramiko, PySerial, MerakiAPI, Flask)
+>- Configuring Cisco Switches and Routers, Upgrading IOS, Troubleshooting Cisco devices
 
-- 👨‍💻 All of my projects are available at [My GitHub profile/Repositories](https://github.com/DARKSOULx69?tab=repositories)
+><b>Skills</b>
+>- Networking
+>- Network Automation
+>- Graphic Design
+>- Music Composing
+>- Application Developing
+>- Web Developing
 
-- 📫 How to reach me **contactxchamodsavinda@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+><b>Programming and Frameworks</b>  
+>
+><img src="assests\icons\softwares and frameworks\python.png" width=30 height= 30 alt= "Python">
+><img src="assests\icons\softwares and frameworks\flask.png" width=30 height= 30 alt= "Flask">
+><img src="assests\icons\softwares and frameworks\beautifulsoup.png" width=30 height= 30 alt= "BeautifulSoup">
+><img src="assests\icons\softwares and frameworks\flet.png" width=30 height= 30 alt= "Flet">
+><img src="assests\icons\softwares and frameworks\meraki.png" width=30 height= 30 alt= "Cisco Meraki">
+><img src="assests\icons\softwares and frameworks\netmiko.png" width=30 height= 30 alt= "Netmiko">
+><img src="assests\icons\softwares and frameworks\pyserial.png" width=30 height= 30 alt= "PySerial">
+><img src="assests\icons\softwares and frameworks\ytdlp.png" width=30 height= 30 alt= "YT Dlp">
+><img src="assests\icons\softwares and frameworks\qt.png" width=30 height= 30 alt= "PyQt">  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darksoulx69&show_icons=true&locale=en&layout=compact" alt="darksoulx69" /></p>
+>- Python
+>- Flask
+>- BeautifulSoup
+>- Flet
+>- Cisco Meraki API
+>- Netmiko
+>- PySerial
+>- YT Dlp
+>- PyQt5/ PyQt6
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darksoulx69&show_icons=true&locale=en" alt="darksoulx69" /></p>
+><b>Web Developing and API</b>  
+>
+><img src="assests\icons\softwares and frameworks\html.png" width=30 height= 30 alt= "HTML">
+><img src="assests\icons\softwares and frameworks\css.png" width=30 height= 30 alt= "CSS">
+><img src="assests\icons\softwares and frameworks\js.png" width=30 height= 30 alt= "JS">
+><img src="assests\icons\softwares and frameworks\postman.png" width= 30 height= 30>  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darksoulx69&" alt="darksoulx69" /></p>
+>- HTML
+>- CSS
+>- JavaScript
+>- Postman
 
+><b>Designing</b>  
+>
+><img src="assests\icons\softwares and frameworks\photoshop.png" width=30 height= 30 alt= "Photoshop">
+><img src="assests\icons\softwares and frameworks\illustrator.png" width=30 height= 30 alt= "Illustrator">  
+
+>- Adobe Photoshop
+>- Adobe Illustrator
+
+><b>Social Media</b>
+>
+> <a href= "https://github.com/DARKSOULx69"><img src="assests\icons\social media\github.png" width= 30, height= 30 alt= "Github"></a>
+<a href= "https://lk.linkedin.com/in/chamod-gamhewa-25b736257"><img src="assests\icons\social media\lnkedin.png" width= 30, height= 30 alt= "Linkedin"></a>
+<a href= ""><img src="assests\icons\social media\stackoverflow.png" width=30 height= 30 alt= "Stackoverflow"></a>
+<a href= ""><img src="assests\icons\social media\youtube.png" width=30 height= 30 alt= "Youtube"></a>
+<a href= ""><img src="assests\icons\social media\facebook.png" width=30 height= 30 alt= "Facebook"></a>
+<a href= ""><img src="assests\icons\social media\instagram.png" width=30 height= 30 alt= "Instagram"></a>
